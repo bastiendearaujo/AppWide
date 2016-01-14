@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wide</string>
+    <string-array name="liste">
+        <item>We Are Weird</item>
+        <item>Erkaï</item>
+        <item>Pierre Pruvost</item>
+        <item>Samuel Thomazeau</item>
+        <item>Simon</item>
+        <item>Victor Roger</item>
+        <item>Jules Dep</item>
+        <item>Louis Roger</item>
+        <item>RCV &amp; ITP</item>
+        <item>Le Grabuge</item>
+    </string-array>
+    <string-array name="liste2">
+        <item>Sur une vibe électro/pop.</item>
+        <item>The concept of travelling.</item>
+        <item>Compositeur et interprète.</item>
+        <item>Surnommé "Super saxo".</item>
+        <item>Rappeur hors normes.</item>
+        <item>Mashups qui font sensation.</item>
+        <item>Artiste accoustique.</item>
+        <item>Un artiste de pop.</item>
+        <item>Petit débat.</item>
+        <item>Petit débat.</item>
+    </string-array>
+    <string-array name="grille">
+        <item>@drawable/arnaud_guillaume</item>
+        <item>@drawable/erkai</item>
+        <item>@drawable/pruvost</item>
+        <item>@drawable/samuel</item>
+        <item>@drawable/simon</item>
+        <item>@drawable/victor</item>
+        <item>@drawable/jules</item>
+        <item>@drawable/louis</item>
+        <item>@drawable/rockpanda</item>
+        <item>@drawable/grabuge</item>
+    </string-array>
+    <string-array name="background">
+        <item>@drawable/arnaud_guillaume_bg</item>
+        <item>@drawable/erkai_bg</item>
+        <item>@drawable/pruvost_bg</item>
+        <item>@drawable/samuel_bg</item>
+        <item>@drawable/simon_bg</item>
+        <item>@drawable/victor_bg</item>
+        <item>@drawable/jules_bg</item>
+        <item>@drawable/louis_bg</item>
+        <item>@drawable/inthepanda_bg</item>
+        <item>@drawable/grabuge_bg</item>
+    </string-array>
+    <string-array name="musique">
+        <item>acdc</item>
+        <item>renaud</item>
+        <item>louise</item>
+        <item>rocky</item>
+        <item>eminem</item>
+        <item>daftpunk</item>
+        <item>brassens</item>
+        <item>kiss</item>
+        <item>muse</item>
+        <item>turtles</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="artiste">img_artiste</string>
+    <string name="title_activity_play">PlayActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
